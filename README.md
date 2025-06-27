@@ -25,7 +25,7 @@ This representation is especially advantageous in **strong coupling regimes**, w
 
 The conceptual framework is illustrated below:
 
-![MIN3OS Diagram](https://imgur.com/a/WyQjs2A) <!-- Replace with actual image path -->
+![MIN3OS Diagram](https://i.imgur.com/oT9ocEw.png) <!-- Replace with actual image path -->
 
 1. **Quantum Device + Environment**  
    A realistic quantum platform interacting with an external environment introduces nontrivial noise.  
